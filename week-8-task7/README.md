@@ -10,6 +10,8 @@
 6. Kreiranje load balancer-a alb-web-server-week8
 us-east-1a
 us-east-1b
+DNS record: alb-web-server-week8-408665907.us-east-1.elb.amazonaws.com
+
 Kreiranje posebne sec grupe za load balancer jer ima vlastitu sec grupu:
 alb-web-server
 Sec Group used for ALB Web Severs
