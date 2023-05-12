@@ -46,9 +46,10 @@ U AWS konzoli, kreirati S3 bucket na nacin:
 ![s3_bucket](Screenshots/s3_bucket_policy.png)
 
 S3 website endpoint -> non encrypted
+
 [S3 website endpoint](http://marko-bajic-devops-mentorship-program-week-11.s3-website-us-east-1.amazonaws.com/)
 
-![s3_bucket_non_encrypted](Screenshots/S3 bucket_endpoint_non_encrypted.png)
+![s3_bucket_non_encrypted](Screenshots/S3_bucket_endpoint_non_encrypted.png)
 
 Prikaz website-a :
 ![s3_website](Screenshots/Prikaz_website_s3.png)
